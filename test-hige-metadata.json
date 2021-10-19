@@ -1,0 +1,14 @@
+{
+  "attributes": {
+    "hp": 150,
+    "attack": {
+      "rock": 50,
+      "paper": 70,
+      "scissors": 40
+    }
+  },
+  "description": "keyを小文字に変えた",
+  "price": 1.3,
+  "image": "https://gateway.pinata.cloud/ipfs/QmamUU1WbCCbQTDX4ogjiG4ifU9uszteTBqaeYEgoTpd2x",
+  "name": "test-hige"
+}

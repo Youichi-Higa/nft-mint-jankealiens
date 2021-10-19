@@ -1,0 +1,14 @@
+{
+  "attributes": {
+    "hp": 100,
+    "attack": {
+      "rock": 40,
+      "paper": 20,
+      "scissors": 10
+    }
+  },
+  "description": "ブタコ星人だよー",
+  "price": 1,
+  "image": "https://gateway.pinata.cloud/ipfs/QmaZHDkkjNSLcgpHvZLkyMrTgBPMmxomMNyZxefdfSfasW",
+  "name": "<sample>ブタコ星人"
+}

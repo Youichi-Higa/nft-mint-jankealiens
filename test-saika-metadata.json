@@ -1,0 +1,13 @@
+{
+  "attributes": {
+    "HP": 100,
+    "ATTACK": {
+      "ROCK": 30,
+      "PAPER": 10,
+      "SCISSORS": 20
+    }
+  },
+  "description": "さいか（ボツ版）",
+  "image": "https://gateway.pinata.cloud/ipfs/QmakjaBoz5fXJ4feE9B6u73ZPQs45LP8sS188R5xDYsdo3",
+  "name": "test-saika"
+}
